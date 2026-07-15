@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=Building+scalable+applications;Designing+intelligent+systems;Optimization-driven+problem+solving" alt="Typing SVG" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-
 </div>
 
 <br/>
