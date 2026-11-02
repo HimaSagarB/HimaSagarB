@@ -1,0 +1,48 @@
+name: Refresh profile projects
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-projects.yml'
+      - 'scripts/update_projects.py'
+      - 'scripts/test_update_projects.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-projects
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+      - name: Verify project updater
+        run: python3 -m unittest discover -s scripts -p 'test_update_projects.py'
+      - name: Refresh the project list
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/update_projects.py
+      - name: Publish changes when needed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo 'Project list is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Refresh public project list'
+          git pull --rebase origin main
+          git push origin HEAD:main

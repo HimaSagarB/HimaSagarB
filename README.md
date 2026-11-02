@@ -8,6 +8,22 @@
 <a href="https://github.com/HimaSagarB?tab=repositories">GitHub repositories</a>
 </p>
 
+## Projects
+
+<!-- PROJECTS:START -->
+
+- [CivicPriority](https://github.com/HimaSagarB/Software_Community-PrioApp)
+- [Smart Product Advisor](https://github.com/HimaSagarB/AI_ProductsReccomendation)
+- [JobAssist](https://github.com/HimaSagarB/JobAssist)
+- [Waste Classification](https://github.com/HimaSagarB/NNDL_Waste-Classification)
+- [saucedemo qa](https://github.com/HimaSagarB/saucedemo-qa)
+- [EmoSense](https://github.com/HimaSagarB/EmoSense)
+- [AI Assisted Syntax Error Detection and Correction Comipler for C](https://github.com/HimaSagarB/AI-Assisted-Syntax-Error-Detection-and-Correction-Comipler-for-C)
+
+[View all repositories →](https://github.com/HimaSagarB?tab=repositories&sort=updated)
+
+<!-- PROJECTS:END -->
+
 ## About me
 
 I'm **Hima Sagar B**, a **Computer Science student** interested in building useful applications and understanding the systems behind them. My interests span **software development, networking, and applied AI / ML**.
@@ -35,15 +51,6 @@ I'm **Hima Sagar B**, a **Computer Science student** interested in building usef
 <img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" />
 <img src="assets/logos/vercel.svg" width="44" height="44" alt="Vercel" title="Vercel" />
 </p>
-
-## Selected work
-
-| Project | Area |
-| :--- | :--- |
-| [CivicPriority](https://github.com/HimaSagarB/Software_Community-PrioApp) | Community issue prioritization |
-| [Smart Product Advisor](https://github.com/HimaSagarB/AI_ProductsReccomendation) | AI-assisted product recommendations |
-| [JobAssist](https://github.com/HimaSagarB/JobAssist) | Personal job-search workflows |
-| [Waste Classification](https://github.com/HimaSagarB/NNDL_Waste-Classification) | Applied computer vision |
 
 ## Connect
 
