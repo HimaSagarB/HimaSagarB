@@ -45,8 +45,6 @@ I'm **Hima Sagar B**, a **Computer Science student** interested in building usef
 | [JobAssist](https://github.com/HimaSagarB/JobAssist) | Personal job-search workflows |
 | [Waste Classification](https://github.com/HimaSagarB/NNDL_Waste-Classification) | Applied computer vision |
 
-<sub>JobAssist is adapted from Dossier. <a href="https://github.com/HimaSagarB/JobAssist/blob/main/ATTRIBUTION.md">Contributions &amp; credits</a>.</sub>
-
 ## Connect
 
 For opportunities and collaboration, [connect with me on LinkedIn](https://www.linkedin.com/in/himasagarb/).
