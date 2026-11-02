@@ -4,9 +4,8 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/himasagarb/"><img src="assets/linkedin-button.png" width="29%" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/HimaSagarB?tab=repositories"><img src="assets/projects-button.png" width="29%" alt="Explore my work" /></a>
-<a href="https://himasgrcommprioapp.vercel.app/"><img src="assets/demo-button.png" width="29%" alt="Try the CivicPriority live demo" /></a>
+<a href="https://www.linkedin.com/in/himasagarb/"><img src="assets/linkedin-button.png" width="36%" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/HimaSagarB?tab=repositories"><img src="assets/projects-button.png" width="36%" alt="Browse my GitHub repositories" /></a>
 
 <br /><br />
 
