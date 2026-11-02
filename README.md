@@ -13,7 +13,7 @@
 ### Curious about how things work. Driven to build what comes next.
 
 I'm **Hima Sagar B**, a **Computer Science student** exploring the intersection of<br />
-**software development, computer networks, and applied AI.**
+**software development, networking, and applied AI.**
 
 I enjoy turning ideas into useful applications, solving problems,<br />
 and understanding the systems beneath the surface.
@@ -22,7 +22,7 @@ and understanding the systems beneath the surface.
 
 <br />
 
-<img src="assets/focus-areas.gif" width="100%" alt="Animated focus areas: software — building useful applications; networks — exploring connected systems; AI / ML — applying intelligence" />
+<img src="assets/focus-areas.gif" width="100%" alt="Animated focus areas: software — building useful applications; networking — network engineering and related roles; AI / ML — applying intelligence" />
 
 <br />
 
