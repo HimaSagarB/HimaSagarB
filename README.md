@@ -1,76 +1,52 @@
-<div align="center">
-
 <picture>
 <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.gif" />
-<img src="assets/profile-hero.gif" width="100%" alt="Hima Sagar B — animated network particles and rotating software, networking, and AI / ML titles" />
+<img src="assets/profile-hero.gif" width="100%" alt="Hima Sagar B — Computer Science student interested in software development, networking, and AI / ML. Open to opportunities." />
 </picture>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/himasagarb/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/HimaSagarB?tab=repositories">GitHub repositories</a>
+</p>
+
+## About me
+
+I'm **Hima Sagar B**, a **Computer Science student** interested in building useful applications and understanding the systems behind them. My interests span **software development, networking, and applied AI / ML**.
+
+**Open to:** SDE / software development, networking-related roles, and AI / ML opportunities.
+
+**Currently learning:** Data Structures & Algorithms, System Design Fundamentals, and Networking.
+
+## Toolkit
+
+<p align="center">
+<img src="assets/logos/python.svg" width="44" height="44" alt="Python" title="Python" />
+<img src="assets/logos/java.svg" width="44" height="44" alt="Java" title="Java" />
+<img src="assets/logos/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+<img src="assets/logos/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+<img src="assets/logos/react.svg" width="44" height="44" alt="React" title="React" />
+<img src="assets/logos/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js" />
+<img src="assets/logos/firebase.svg" width="44" height="44" alt="Firebase" title="Firebase" />
 <br />
+<img src="assets/logos/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+<img src="assets/logos/mysql.svg" width="44" height="44" alt="MySQL" title="MySQL" />
+<img src="assets/logos/prisma.svg" width="44" height="44" alt="Prisma" title="Prisma" />
+<img src="assets/logos/pytorch.svg" width="44" height="44" alt="PyTorch" title="PyTorch" />
+<img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" />
+<img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" />
+<img src="assets/logos/vercel.svg" width="44" height="44" alt="Vercel" title="Vercel" />
+</p>
 
-<a href="https://www.linkedin.com/in/himasagarb/"><img src="assets/linkedin-button.png" width="240" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/HimaSagarB?tab=repositories"><img src="assets/projects-button.png" width="240" alt="Browse my GitHub repositories" /></a>
+## Selected work
 
-<br /><br />
+| Project | Area |
+| :--- | :--- |
+| [CivicPriority](https://github.com/HimaSagarB/Software_Community-PrioApp) | Community issue prioritization |
+| [Smart Product Advisor](https://github.com/HimaSagarB/AI_ProductsReccomendation) | AI-assisted product recommendations |
+| [JobAssist](https://github.com/HimaSagarB/JobAssist) | Personal job-search workflows |
+| [Waste Classification](https://github.com/HimaSagarB/NNDL_Waste-Classification) | Applied computer vision |
 
-### Curious about how things work. Driven to build what comes next.
+<sub>JobAssist is adapted from Dossier. <a href="https://github.com/HimaSagarB/JobAssist/blob/main/ATTRIBUTION.md">Contributions &amp; credits</a>.</sub>
 
-I'm **Hima Sagar B**, a **Computer Science student** exploring **software development, networking, and applied AI.**
+## Connect
 
-I enjoy turning ideas into useful applications, solving problems, and understanding the systems beneath the surface.
-
-**Open to:** SDE / software development · Networking-related roles · AI / ML
-
-<sub>Learning focus: Data Structures & Algorithms · System Design Fundamentals · Networking</sub>
-
-<br />
-
-<picture>
-<source media="(max-width: 600px)" srcset="assets/focus-areas-mobile.gif" />
-<img src="assets/focus-areas.gif" width="100%" alt="Animated focus areas: software — building useful applications; networking — network engineering and related roles; AI / ML — applying intelligence" />
-</picture>
-
-<br />
-
-<img src="assets/flow-divider.gif" width="100%" height="5" alt="" />
-
-### My toolkit
-
-<picture>
-<source media="(max-width: 600px)" srcset="assets/toolkit-mobile.png" />
-<img src="assets/toolkit.png" width="100%" alt="Python, Java, JavaScript, TypeScript, React, Next.js, Firebase, PostgreSQL, MySQL, Prisma, PyTorch, Git, GitHub, and Vercel" />
-</picture>
-
-<sub>From interfaces and databases to models and deployment.</sub>
-
-<br /><br />
-
-<img src="assets/flow-divider.gif" width="100%" height="5" alt="" />
-
-### Selected work
-
-<sub>Explore the code, documentation, and contributions.</sub>
-
-<br /><br />
-
-<a href="https://github.com/HimaSagarB/Software_Community-PrioApp"><img src="assets/project-civicpriority.png" width="420" alt="CivicPriority — view repository" /></a>
-<a href="https://github.com/HimaSagarB/AI_ProductsReccomendation"><img src="assets/project-advisor.png" width="420" alt="Smart Product Advisor — view repository" /></a>
-<br />
-<a href="https://github.com/HimaSagarB/JobAssist"><img src="assets/project-jobassist.png" width="420" alt="JobAssist — view repository" /></a>
-<a href="https://github.com/HimaSagarB/NNDL_Waste-Classification"><img src="assets/project-waste.png" width="420" alt="Waste Classification — view repository" /></a>
-
-<sub>JobAssist is adapted from Dossier; <a href="https://github.com/HimaSagarB/JobAssist/blob/main/ATTRIBUTION.md">contributions &amp; credits</a>.</sub>
-
-<br /><br />
-
-<img src="assets/flow-divider.gif" width="100%" height="5" alt="" />
-
-<br />
-
-<a href="https://www.linkedin.com/in/himasagarb/"><picture>
-<source media="(max-width: 600px)" srcset="assets/connect-footer-mobile.gif" />
-<img src="assets/connect-footer.gif" width="100%" alt="Let's build what's next — open to software development, network engineering, and AI / ML opportunities. Connect on LinkedIn." />
-</picture></a>
-
-[**Let's connect on LinkedIn ↗**](https://www.linkedin.com/in/himasagarb/)
-
-</div>
+For opportunities and collaboration, [connect with me on LinkedIn](https://www.linkedin.com/in/himasagarb/).
