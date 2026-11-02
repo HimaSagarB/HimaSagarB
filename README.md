@@ -16,9 +16,9 @@
 - [Smart Product Advisor](https://github.com/HimaSagarB/AI_ProductsReccomendation)
 - [JobAssist](https://github.com/HimaSagarB/JobAssist)
 - [Waste Classification](https://github.com/HimaSagarB/NNDL_Waste-Classification)
+- [AI Assisted Syntax Error Detection and Correction Comipler for C](https://github.com/HimaSagarB/AI-Assisted-Syntax-Error-Detection-and-Correction-Comipler-for-C)
 - [saucedemo qa](https://github.com/HimaSagarB/saucedemo-qa)
 - [EmoSense](https://github.com/HimaSagarB/EmoSense)
-- [AI Assisted Syntax Error Detection and Correction Comipler for C](https://github.com/HimaSagarB/AI-Assisted-Syntax-Error-Detection-and-Correction-Comipler-for-C)
 
 [View all repositories →](https://github.com/HimaSagarB?tab=repositories&sort=updated)
 
